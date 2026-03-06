@@ -1,0 +1,8 @@
+let x = 1972
+let y = 5
+
+print x + y
+print x - y
+print x * y
+print x / y
+
